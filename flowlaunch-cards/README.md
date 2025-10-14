@@ -34,3 +34,39 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# FlowLaunch — Candidate Cards UI
+
+A responsive, functional UI project built with **React.js / Next.js** and **Tailwind CSS**, showcasing active/inactive candidate cards with interactive features.
+
+---
+
+## **Project Overview**
+
+This project demonstrates a simple component-based UI system for candidate management:
+
+- **Active / Inactive Status**  
+- **Toggle buttons to activate/deactivate a candidate**  
+- **Mark All Inactive functionality via checkbox**  
+- **Interactive “View Profile” button** (alerts active candidates)  
+- **Responsive layout** (grid adjusts on small screens)  
+- **Icons used for user avatars and status**
+
+---
+
+## **Tech Stack**
+
+- **Frontend:** React.js / Next.js  
+- **Styling:** Tailwind CSS  
+- **Icons:** React Icons + Custom SVG icons  
+- **Deployment:** Vercel  
+
+---
+
+## **Installation Instructions**
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/flowlaunch-ui.git
+cd flowlaunch-ui
