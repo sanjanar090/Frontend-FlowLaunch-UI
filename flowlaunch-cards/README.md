@@ -70,3 +70,5 @@ This project demonstrates a simple component-based UI system for candidate manag
 ```bash
 git clone https://github.com/your-username/flowlaunch-ui.git
 cd flowlaunch-ui
+
+
